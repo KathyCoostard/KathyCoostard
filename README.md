@@ -1,4 +1,4 @@
-- 👋 Hi, I’m Kat
+- 👋 Hi, I’m Kath
 - 👀 I’m interested in learning to code
 - 🌱 I’m currently learning PowerShell
 - 💞️ I’m looking to collaborate on various projects with Azure / M365
